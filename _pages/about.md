@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi. Im Lizette.
+Hi. Im Lizette Nange.

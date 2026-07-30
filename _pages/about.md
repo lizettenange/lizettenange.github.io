@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi. Im Lizette Nange.
+Hello, I am a teaching assistant at the African Institute for Mathematical Sciences (AIMS) in Cameroon. I am currently pursuing a Ph.D. in physics at the University of Dschang, and my research focuses on the optical detection and classification of waterborne disease agents. My goal is to develop deep learning models to detect and classify microorganisms in water, food, and bodily fluids. I am interested in applying image processing and computer vision to solve real-world problems. 

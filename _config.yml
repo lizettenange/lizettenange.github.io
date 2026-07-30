@@ -23,7 +23,7 @@ repository               : "lizettenange/lizettenange.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Lizette Nange CHIA"
   pronouns         : # example: "she/her"  
   bio              : "PhD student of Physics"

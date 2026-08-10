@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Classification of bacterial images obtained optically using some pre-trained models"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'This paper applies transfer learning with pre-trained CNNs to classify optical images of water-borne bacteria (E. coli, faecal streptococci, both, or safe water), with ResNet-152 and EfficientNet-B7 achieving over 94% accuracy and AUC above 98%. The results support scalable, automated water-quality monitoring aligned with WASH objectives.'
+date: 2026-06-10 
+venue: 'Journal of Microbiological Methods'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Chia et al. (2026). &quot;Classification of bacterial images obtained optically using some pre-trained models.&quot; <i>Journal of Microbiological Methods</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this work, we investigated the use of transfer learning for the classification of optically acquired images of water-borne bacteria using the water-drop method. The proposed framework classifies water samples into four categories: Escherichia coli, Fecal streptococci, the co-occurrence of both bacteria, and safe water. Our results show that some pre-trained deep learning models, particularly ResNet-50, ResNet-152, and EfficientNet-B7, achieved better classification performance than the previously used shallow CNN-based model. EfficientNet-B7 obtained the highest accuracy, while ResNet-50 provided the best compromise between accuracy and inference time, making it a promising option for real-time deployment in low-resource environments. This work is part of our broader objective to develop an automated system capable of detecting and classifying bacteria in water, contributing to improved water-quality monitoring, safer drinking water, and the reduction of water-borne diseases.

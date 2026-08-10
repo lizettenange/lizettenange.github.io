@@ -23,9 +23,13 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
+  - title: "Conferences and Workshops"
+    url: /conferences/
     
+  - title: "Certifications"   
+    url: /certifications/
   # - title: "CV"
   #   url: /cv-json/
     

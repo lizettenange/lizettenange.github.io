@@ -84,11 +84,7 @@
       "publisher": "Journal of Microbiological Methods",
       "releaseDate": "2026-06-10 ",
       "website": "10.1016/j.mimet.2026.107572",
-      "summary": "In this work, we investigated the use of transfer learning for the classification of optically acquired images of water-borne bacteria using the water-drop method. The proposed framework classifies water samples into four categories: Escherichia coli, Fecal streptococci, the co-occurrence of both bacteria, and safe water.
-
-Our results show that some pre-trained deep learning models, particularly ResNet-50, ResNet-152, and EfficientNet-B7, achieved better classification performance than the previously used shallow CNN-based model. EfficientNet-B7 obtained the highest accuracy, while ResNet-50 provided the best compromise between accuracy and inference time, making it a promising option for real-time deployment in low-resource environments.
-
-This work is part of our broader objective to develop an automated system capable of detecting and classifying bacteria in water, contributing to improved water-quality monitoring, safer drinking water, and the reduction of water-borne diseases."
+      "summary": "In this work, we investigated the use of transfer learning for the classification of optically acquired images of water-borne bacteria using the water-drop method. The proposed framework classifies water samples into four categories: Escherichia coli, Fecal streptococci, the co-occurrence of both bacteria, and safe water. Our results show that some pre-trained deep learning models, particularly ResNet-50, ResNet-152, and EfficientNet-B7, achieved better classification performance than the previously used shallow CNN-based model. EfficientNet-B7 obtained the highest accuracy, while ResNet-50 provided the best compromise between accuracy and inference time, making it a promising option for real-time deployment in low-resource environments. This work is part of our broader objective to develop an automated system capable of detecting and classifying bacteria in water, contributing to improved water-quality monitoring, safer drinking water, and the reduction of water-borne diseases."
     },
     {
       "name": "Paper Title Number 4",

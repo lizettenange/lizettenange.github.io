@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper applies transfer learning with pre-trained CNNs to classify optical images of water-borne bacteria (E. coli, faecal streptococci, both, or safe water), with ResNet-152 and EfficientNet-B7 achieving over 94% accuracy and AUC above 98%. The results support scalable, automated water-quality monitoring aligned with WASH objectives.'
 date: 2026-06-10 
 venue: 'Journal of Microbiological Methods'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+#slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+paperurl: '10.1016/j.mimet.2026.107572'
 citation: 'Chia et al. (2026). &quot;Classification of bacterial images obtained optically using some pre-trained models.&quot; <i>Journal of Microbiological Methods</i>.'
 ---
 

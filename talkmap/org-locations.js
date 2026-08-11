@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "3th edition symposium Women in STEM, and innovation for a sustainable future<br />Faculty of Sciences, University of Dschang, Cameroon; Dschang, Cameroon",
+    5.4469923,
+    10.053309
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "6th International Conference on Soft Materials ICSM<br />Rovira i Virgili University and the Soft Materials Research Society (SMRS); Universitat Rovira i Virgili, Tarragona, Spain",
+    41.1226832,
+    1.2501587
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    37.7879363,
+    -122.4075201
+  ],
+  [
+    "Direct detection and classification of E. coli and fecal streptococci using an optical water droplet method and convolutional neural networks<br />4th African Conference on Fundamental and Applied Physics, ACP-2025; University of Lom\u00e9, Togo",
+    6.176989,
+    1.2129952
   ]
 ];

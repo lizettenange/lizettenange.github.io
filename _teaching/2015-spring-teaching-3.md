@@ -8,4 +8,4 @@ date: 2023-09-01
 location: "Dschang, Cameroon"
 ---
 
-This course was taught to Master I students in Electrical Engineering, Electronics and Automation (GEII) at ISSTN Nanfah, Dschang, during the first semester of the 2023/2024 academic year.
+During the first semester of the 2023/2024 academic year, Master I students in Electrical Engineering, Electronics and Automation (GEII) at ISSTN Nanfah, Dschang, were taught this course.

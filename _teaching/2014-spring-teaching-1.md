@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "Dschang, Cameroon"
 ---
 
-This course was taught to Master I students in Metrology and Biomedical Engineering at the University of Dschang, during the second semester of the 2024/2025 academic year.
+This Master's course in Metrology and Biomedical Engineering was taught to second-semester students at the University of Dschang during the 2024/25 academic year.

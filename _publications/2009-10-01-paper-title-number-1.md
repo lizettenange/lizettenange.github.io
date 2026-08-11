@@ -7,7 +7,7 @@ excerpt: 'This describes an Arduino-based voltage monitoring and protection syst
 date: 2022-08-10"
 venue: 'Journal of Power and Energy Engineering'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.scirp.net/pdf/jpee_2022080915253002.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 doiurl: '10.4236/jpee.2022.108002'
 citation: 'Asoh, D. A., & Chia, L. N. (2022). &quot;Design and implementation of an automatic over/undervoltage protection system for single-phase low voltage power lines.&quot; <i>Journal of Power and Energy Engineering </i>. 10(8). '

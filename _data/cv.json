@@ -66,25 +66,25 @@
   "references": [],
   "publications": [
     {
-      "name": "Design and Implementation of an Automatic Over/Undervoltage Protection System for Single-Phase Low Voltage Power Lines",
-      "publisher": "Journal of Power and Energy Engineering",
-      "releaseDate": "2022-08-10",
-      "website": "10.4236/jpee.2022.108002",
-      "summary": "Today, many industrial and domestic electronic appliances and equipment (devices) are exposed to power disturbances such as voltage variations of the AC mains supply which often lead to damage of the electronic devices. As these devices are quite sensitive to power disturbances, there is a need for a tripping system that can help avoid any damage to devices in use. The objective of this work is to build a system that monitors line voltage and protects appliances from unacceptable voltage variations. The system consists of a tripping mechanism that monitors the input voltage and trips according to the limits provided. An Arduino Uno microcontroller is used to determine the voltage level through a voltage divider circuit. The system’s novelty and innovation lie in its flexibility. It offers the user the ability to define different overvoltage and undervoltage threshold values depending on the specific appliances used in the household. In operation, the system displays the voltage state (overvoltage, normal voltage, overvoltage) and alerts the user by sending an SMS via a GSM modem. The system is valuable for industrial and domestic applications, especially in developing economies such as those of Sub-Saharan Africa, where overvoltage and undervoltage are acute problems."
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Direct detection and classification of E. coli and fecal streptococci using an optical water droplet method and convolutional neural networks",
-      "publisher": "Applied Optics",
-      "releaseDate": "2025-03-20",
-      "website": "10.1364/ao.542072",
-      "summary": "This work aims to tackle Sustainable Development Goals 3 (Good Health and Well-Being) and 6 (Clean Water and Sanitation) in developing countries. By enhancing water quality monitoring, we hope to contribute to healthier communities and improved public health outcomes."
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "https://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Classification of bacterial images obtained optically using some pre-trained models",
-      "publisher": "Journal of Microbiological Methods",
-      "releaseDate": "2026-06-10",
-      "website": "10.1016/j.mimet.2026.107572",
-      "summary": "In this work, we investigated the use of transfer learning for the classification of optically acquired images of water-borne bacteria using the water-drop method. The proposed framework classifies water samples into four categories: Escherichia coli, Fecal streptococci, the co-occurrence of both bacteria, and safe water. Our results show that some pre-trained deep learning models, particularly ResNet-50, ResNet-152, and EfficientNet-B7, achieved better classification performance than the previously used shallow CNN-based model. EfficientNet-B7 obtained the highest accuracy, while ResNet-50 provided the best compromise between accuracy and inference time, making it a promising option for real-time deployment in low-resource environments. This work is part of our broader objective to develop an automated system capable of detecting and classifying bacteria in water, contributing to improved water-quality monitoring, safer drinking water, and the reduction of water-borne diseases."
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
       "name": "Paper Title Number 4",

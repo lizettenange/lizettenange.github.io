@@ -7,7 +7,7 @@ excerpt: 'This paper applies transfer learning with pre-trained CNNs to classify
 date: 2026-06-10 
 venue: 'Journal of Microbiological Methods'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://lizettenange.github.io/files/paper3.pdf'
 citation: 'Chia et al. (2026). &quot;Classification of bacterial images obtained optically using some pre-trained models.&quot; <i>Journal of Microbiological Methods</i>.'
 ---
 

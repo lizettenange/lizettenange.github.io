@@ -7,7 +7,7 @@ excerpt: 'This paper combines optical water-droplet imaging with CNNs to detect 
 date: 2025-03-20
 venue: 'Applied Optics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://lizettenange.github.io/files/paper2.pdf'
 citation: 'chia et al. (2025). &quot;Direct detection and classification of E. coli and fecal streptococci using an optical water droplet method and convolutional neural networks.&quot; <i>Applied Optics</i>. 64(9).'
 ---
 

@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Optimization of Electric Energy Systems"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master's course"
+permalink: /teaching/2023-fall-optimization-electric-energy-systems
+venue: "University of Dschang, Department of Physics"
+date: 2023-09-01
+location: "Dschang, Cameroon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course was taught to Master I students in Electrical Engineering, Electronics and Automation (GEII) at the University of Dschang, during the first semester of the 2023/2024 academic year.

@@ -1,20 +1,11 @@
 ---
-title: "Biomedical electronics"
+title: "Biomedical Electronics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master's course"
+permalink: /teaching/2024-spring-biomedical-electronics
+venue: "University of Dschang, Department of Physics"
+date: 2024-09-01
+location: "Dschang, Cameroon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course was taught to Master I students in Metrology and Biomedical Engineering at the University of Dschang, during the second semester of the 2024/2025 academic year.

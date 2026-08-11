@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](/files/my_cv_CHIA_research.pdf) 
+[Download my CV (PDF)](https://lizettenange.github.io/files/my_cv_CHIA_research.pdf) 
